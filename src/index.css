@@ -1,0 +1,24 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Caveat:wght@600&family=Poppins:wght@300&display=swap'); */
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans&display=swap');
+/* @import url('https://fonts.googleapis.com/css2?family=Kalnia&display=swap'); */
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+p{
+  font-family: 'Work Sans', sans-serif !important;
+  font-size: 23px !important;
+  line-height: 40px !important;
+  text-align: justify;
+  color: rgb(223, 222, 222) !important;
+}
+
+.p-menubar {
+  border-radius: 0px !important;
+}
+
+.image-path {
+  clip-path: polygon(30% 0%, 50% 15%, 70% 0%, 90% 10%, 100% 35%, 80% 70%, 50% 100%, 20% 70%, 0% 35%, 10% 10%);
+}
